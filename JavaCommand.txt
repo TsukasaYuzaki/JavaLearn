@@ -1,0 +1,6 @@
+Build .java to .class: javac -d ./build [ur program].java
+build .class to .jar: jar cvf [jar file name].jar [ur program]
+
+
+javac MyApp.java
+jar -cf myJar.jar MyApp.class
