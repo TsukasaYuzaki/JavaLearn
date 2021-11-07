@@ -4,3 +4,5 @@ build .class to .jar: jar cvf [jar file name].jar [ur program]
 
 javac MyApp.java
 jar -cf myJar.jar MyApp.class
+
+the 'v' in cvf is stand for "verbose", its display the compiler process 
