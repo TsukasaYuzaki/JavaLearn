@@ -6,3 +6,10 @@ javac MyApp.java
 jar -cf myJar.jar MyApp.class
 
 the 'v' in cvf is stand for "verbose", its display the compiler process 
+
+
+Open a notepad.exe
+Write : java -jar Example.jar
+Save it with the extension .bat
+Copy it to the directory which has the .jar file
+Double click it to run your .jar file
